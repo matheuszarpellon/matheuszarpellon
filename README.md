@@ -6,11 +6,13 @@
 ## Hi there 👋
 
 I'm studying aboout Front-End developer with:
-- HTML / CSS (SASS, Styled Components)
+- HTML / CSS 
 - JavaScript
 - TypeScript
 - ReactJS
 - NextJS
+- SASS
+- Styled Components
 
 Here on github you can see all projects I builded.
 
