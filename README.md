@@ -1,6 +1,9 @@
 # Matheus Zarpellon 💻
 
-## Olá! Seja bem vindo(a)!
+## Olá! Seja bem vindo(a) ao meu GitHub!
+
+<p>Atualmente, sou um desenvolvedor front-end especializado em React. Apaixonado por TI, estou em constante desenvolvimento de minhas habilidades, alçando voos cada vez mais longos em minha carreira como dev!</p>
+
  <div>
   <a href="https://github.com/matheuszarpellon">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheuszarpellon&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
